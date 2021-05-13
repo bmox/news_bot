@@ -6,7 +6,7 @@ pip3 install --upgrade pip
 pip3 install -U pip setuptools wheel
 pip3 install -U spacy
 python3 -m spacy download en
-pip3 install bing-image-downloader
+#pip3 install bing-image-downloader
 pip3 install opencv-python
 pip3 install ipython
 pip3 install pydub
